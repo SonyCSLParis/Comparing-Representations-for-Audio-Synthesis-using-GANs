@@ -5,7 +5,7 @@ cffi==1.11.5
 chardet==3.0.4
 conda==4.7.12
 conda-package-handling==1.6.0
-cryptography==2.4.2
+cryptography==3.2
 decorator==4.4.2
 dill==0.3.1.1
 freesound-python==1.0
